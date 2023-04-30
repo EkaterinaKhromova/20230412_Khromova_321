@@ -1,0 +1,15 @@
+table { 
+    width: 100%; 
+    border: 4px double rgb(94, 53, 177); 
+    border-collapse: collapse; 
+   }
+   th { 
+    text-align: left; 
+    background: #f5efef; 
+    padding: 5px; 
+    border: 1px solid black; 
+   }
+   td { 
+    padding: 5px; 
+    border: 1px solid black; 
+   }
